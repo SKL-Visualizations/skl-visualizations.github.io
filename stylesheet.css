@@ -1,0 +1,44 @@
+.spec_row{
+  height:33%;
+}
+
+.body{
+  height:100vh;
+}
+
+
+#bubbles{
+  background-image: url("bubbles.PNG");
+  background-size: cover;
+}
+
+#handlingsplan{
+  background-image: url("handlingsplan1.PNG");
+  background-size: cover;
+}
+#verktyg{
+  background-image: url("verktyg.PNG");
+  background-size: cover;
+}
+
+.ico{
+  height:100vh;
+  text-align: center;
+  border-right: 4px solid black;
+}
+
+
+.text_spec{
+  position: absolute;
+  top:45%;
+  left:15%;
+  background-color: black;
+  border-radius: 2px;
+  color:white;
+  padding:5px;
+  font-size:1.2em;
+}
+
+.text_spec:hover{
+  color:orange;
+}
