@@ -41,4 +41,6 @@
 
 .text_spec:hover{
   color:orange;
+  text-decoration: none;
+
 }
